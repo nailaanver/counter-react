@@ -10,7 +10,6 @@ function App() {
    <div className='container'>
     <Head/>
     <Box/>
-    <Button/>
    </div>
    </>
   );
